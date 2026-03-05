@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- generated at drububu.com  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   preserveAspectRatio="xMinYMin meet"
+   x="0px"
+   y="0px"
+   width="18px"
+   height="14px"
+   viewBox="0 0 18 14"
+   id="svg10084"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="t_g_r.svg">
+  <metadata
+     id="metadata10100">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10098" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10000"
+     gridtolerance="10000"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1315"
+     id="namedview10096"
+     showgrid="true"
+     inkscape:zoom="67.428571"
+     inkscape:cx="9"
+     inkscape:cy="7"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10084">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10122" />
+  </sodipodi:namedview>
+  <path
+     d="M0 0h18v2h-1v-1h-16v12h1v1h-2v-14z"
+     fill="rgb(255,255,255)"
+     id="path10086" />
+  <rect
+     style="fill:#d6d6d6;fill-opacity:1"
+     id="rect10124"
+     width="16.002119"
+     height="12"
+     x="1.0063559"
+     y="1" />
+  <path
+     d="M 1,1 13,1 1,13 Z"
+     id="path10088"
+     inkscape:connector-curvature="0"
+     style="fill:#00c600"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="M 17,1 17,13 5,13 Z"
+     id="path10092"
+     inkscape:connector-curvature="0"
+     style="fill:#ff0000"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="M17 2h1v12h-16v-1h15v-11z"
+     fill="rgb(132,132,132)"
+     id="path10094" />
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- generated at drububu.com  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   preserveAspectRatio="xMinYMin meet"
+   x="0px"
+   y="0px"
+   width="9px"
+   height="9px"
+   viewBox="0 0 9 9"
+   id="svg4002"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ot_edt.svg">
+  <metadata
+     id="metadata4014">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4012" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1315"
+     id="namedview4010"
+     showgrid="false"
+     inkscape:zoom="31.916667"
+     inkscape:cx="3.0861619"
+     inkscape:cy="1.4918421"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4002" />
+  <path
+     d="M0 0h9v9h-9v-9z"
+     id="path4004"
+     fill="rgb(0,0,0)" />
+  <ellipse
+     style="fill:#808080;fill-opacity:1"
+     id="path4016"
+     cx="2.4947782"
+     cy="6.4895563"
+     rx="0.66971278"
+     ry="0.65404701" />
+  <path
+     d="M 1,1 6.305483,1.0156658 2.0065274,6.0052219 2.227154,6.7963446 2.9921671,6.9843342 8,2.5613577 8,8 1,8 Z"
+     id="path4006"
+     inkscape:connector-curvature="0"
+     style="fill:#bdff21"
+     sodipodi:nodetypes="ccccccccc" />
+</svg>

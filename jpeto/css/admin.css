@@ -1,0 +1,73 @@
+table.admindata {
+	width:100%;
+}
+
+table.admin {
+
+	margin:0px;
+	overflow:hidden;
+}
+
+td.admin {
+
+	background-color:#C0C0C0;
+}
+
+a.admin {
+
+	text-decoration:none;
+	background-color:#BBFF27;
+	margin:1px 0 1px 1px;
+}
+
+.adminunlink {
+
+	background-color:#BBFF27;
+	margin:1px 0 1px 1px;
+}
+
+.admindelete {
+
+	background-color:#FF276E;
+	margin:1px 0 1px 1px;
+}
+
+.admintxt {
+
+  font: 11px Arial, Helvetica, sans-serif;
+	color:#000000;
+  background-color:#C0C0C0;
+	text-decoration:none;
+	padding:1px 1px 1px 1px;
+}
+
+.alnk {
+
+  font: 11px Arial, Helvetica, sans-serif;
+	color:#000000;
+	text-decoration:none;
+  text-align:right;
+	width: 95%;
+	border-width:0;
+}
+
+.b_onl { margin-left: 1px; }
+.b_sortu, .b_sortd, .b_hide { margin-left: 2px; }
+.b_edt, .b_unlink { background-color:#BBFF27; margin-left: 2px; }
+.b_delete { background-color:#FF276E; margin-left: 2px; }
+
+.admintxt1 {
+
+  line-height:0;
+	color:#000000;
+  background-color:#C0C0C0;
+  text-align:center;
+}
+
+.admintxt0 {
+
+  font: 11px Arial, Helvetica, sans-serif;
+	color:#000000;
+  background-color:#C0C0C0;
+  text-align:center;
+}

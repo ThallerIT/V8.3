@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- generated at drububu.com  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   preserveAspectRatio="xMinYMin meet"
+   x="0px"
+   y="0px"
+   width="14px"
+   height="7px"
+   viewBox="0 0 14 7"
+   id="svg3432"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="apply.svg">
+  <metadata
+     id="metadata3440">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3438" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10000"
+     gridtolerance="10000"
+     guidetolerance="10000"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1315"
+     id="namedview3436"
+     showgrid="true"
+     inkscape:zoom="82.071429"
+     inkscape:cx="5.4769365"
+     inkscape:cy="3.0126197"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3432">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3566" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#000000"
+     d="M -0.01566581,0.71018279 2.7632724,4.024369 9.0664677,3.9878155 6.7656862,6.2885967 7.4727177,6.995628 10.986945,3.4273281 l 0,-8.703e-4 L 7.4727177,-0.01218451 6.7656862,0.69484674 9.0586547,2.9878155 3.1653612,3 0.66753698,0.09747606 Z"
+     id="rect3572"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccc" />
+</svg>
